@@ -6,9 +6,9 @@ Tags: pelican, python, theme
 Slug: flex-pelican-theme
 Cover: images/flex-screenshot.png
 
-I just start a new fresh blog using [Pelican](http://getpelican.com). Sometimes choosing a theme for a new site is something difficult that takes time.
+I just start a new fresh blog using [Pelican](https://getpelican.com). Sometimes choosing a theme for a new site is something difficult that takes time.
 
-In the Pelican [theme gallery](http://www.pelicanthemes.com/), I couldn't find anything that I really liked to feet all my needs. So in the first time of the history, I choose to create my own theme. I never did this before.
+In the Pelican [theme gallery](https://www.pelicanthemes.com/), I couldn't find anything that I really liked to feet all my needs. So in the first time of the history, I choose to create my own theme. I never did this before.
 
 Creating a theme for Pelican is quite easy, unlike Wordpress. You can take a look in the [Source Code of Flex](https://github.com/alexandrevicenzi/Flex).
 
@@ -52,7 +52,7 @@ Mem:          5866       4674       1192        386          0       2404
 Swap:        20480       1267      19213
 </samp>
 
-If you like to share code snippets, you can take advantage of [Pygments](http://pygments.org/) syntax highlighting:
+If you like to share code snippets, you can take advantage of [Pygments](https://pygments.org/) syntax highlighting:
 
 ```js
 // Foo

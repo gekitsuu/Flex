@@ -57,7 +57,7 @@ def regenerate(c):
 
 @task
 def serve(c):
-    """Serve site at http://localhost:$PORT/ (default port is 8000)"""
+    """Serve site at https://localhost:$PORT/ (default port is 8000)"""
 
     class AddressReuseTCPServer(RootedHTTPServer):
         allow_reuse_address = True

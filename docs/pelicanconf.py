@@ -1,7 +1,7 @@
 from datetime import datetime
 
 AUTHOR = "Alexandre Vicenzi"
-SITEURL = "http://localhost:8000"
+SITEURL = "https://localhost:8000"
 SITENAME = "Flex"
 SITETITLE = "Flex"
 SITESUBTITLE = "The minimalist Pelican theme"

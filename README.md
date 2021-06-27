@@ -1,6 +1,6 @@
 # Flex [![Build Status](https://travis-ci.org/alexandrevicenzi/Flex.svg?branch=master)](https://travis-ci.org/alexandrevicenzi/Flex)
 
-The minimalist [Pelican](http://blog.getpelican.com/) theme.
+The minimalist [Pelican](https://blog.getpelican.com/) theme.
 
 ## Notes
 
@@ -24,9 +24,9 @@ The minimalist [Pelican](http://blog.getpelican.com/) theme.
 
 ## Integrations
 
-- [AddThis](http://www.addthis.com/)
+- [AddThis](https://www.addthis.com/)
 - [Disqus](https://disqus.com/)
-- [Gauges Analytics](http://get.gaug.es/)
+- [Gauges Analytics](https://get.gaug.es/)
 - [Google AdSense](https://www.google.com.br/adsense/start/)
 - [Google Analytics](https://www.google.com/analytics/web/)
 - [Google Tag Manager](https://www.google.com/tagmanager/)
@@ -61,7 +61,7 @@ If something is missing or broken you can open a PR or fix the documentation by 
 
 ## Live example
 
-You can see how this theme looks like at [http://flex.alxd.me/](http://flex.alxd.me/).
+You can see how this theme looks like at [https://flex.alxd.me/](https://flex.alxd.me/).
 
 The code is available in this project under `docs` folder.
 
